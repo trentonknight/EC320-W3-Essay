@@ -1,0 +1,20 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2011.11.12)  12 NOV 2011 12:30
+entering extended mode
+ %&-line parsing enabled.
+**\input EC320-WK3-3.5.3.bbl.tex
+
+! Emergency stop.
+<*> \input EC320-WK3-3.5.3.bbl.tex
+                                  
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 256217
+ 126 string characters out of 1917094
+ 48804 words of memory out of 1500000
+ 3390 multiletter control sequences out of 10000+200000
+ 3640 words of font info for 14 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 4i,0n,3p,1b,8s stack positions out of 5000i,500n,6000p,200000b,15000s
+No pages of output.

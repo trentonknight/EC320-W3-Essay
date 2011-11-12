@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: EC320-WK3-3.5.3.aux
+The style file: apalike.bst
+Database file #1: cite.bib
+Warning--to sort, need author or key in Berkleyside:2011
+You've used 2 entries,
+            1935 wiz_defined-function locations,
+            483 strings with 4119 characters,
+and the built_in function-call counts, 503 in all, are:
+= -- 51
+> -- 13
+< -- 1
++ -- 4
+- -- 4
+* -- 36
+:= -- 94
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 12
+chr.to.int$ -- 2
+cite$ -- 4
+duplicate$ -- 20
+empty$ -- 34
+format.name$ -- 7
+if$ -- 93
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 13
+num.names$ -- 3
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 25
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 1
+while$ -- 2
+width$ -- 0
+write$ -- 25
+(There was 1 warning)
